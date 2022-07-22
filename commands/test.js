@@ -5,9 +5,10 @@ module.exports.run = async(client, message, args) => {
 
 
 let embed =new EmbedBuilder()
+.setAuthor({name : "Komut okey"})
 .setColor("Red")
 .setDescription(`Komut Çalışıyor`)
-
+.setFooter({text : "Okey"})
 
 message.reply({embeds :[embed]})
 }
