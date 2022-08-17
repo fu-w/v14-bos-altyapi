@@ -5,6 +5,6 @@ Botu Kodlayan Furki#0001
 Daha Fazlası İçinde Discorda Buyrun
 <h1>Destek İçin Furki#0001<h1>
   ------------------------------
-<h>Botun Çalışması İçin Bunu Açmanız Lazım <h>
-<image>https://user-images.githubusercontent.com/74312970/185226654-3556fdb2-da4a-45e9-94d9-51f767132680.png</image>
 
+  
+  ![image](https://user-images.githubusercontent.com/74312970/185227065-e3156c3c-5f49-457f-93e7-6ea71ea430df.png)
